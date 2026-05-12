@@ -764,6 +764,6 @@ Each panel reflects a stage in the investigation lifecycle.
 
 # Built By
 
-**Brian Hannigan**  
-Cybersecurity Engineer • Software Architect  
+**Andre Penny**  
+Cybersecurity Analyst | GRC Analyst 
 Focus: Threat Hunting, Detection Engineering, and defensible investigation workflows
